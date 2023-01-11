@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meitar Friedman</h1>
 <h3 align="center">A full stack developer from Israel</h3>
 
-- 🌱 I’m currently learning **Angular, Python, Node.js**
+- 🌱 I’m currently learning **Angular, Python, Node.js** independently
 
 - 📫 How to reach me **f_meiti@hotmail.com**
 
